@@ -1,0 +1,7 @@
+http://localhost:5000/v1/users
+
+{
+    "username":"Anand",
+    "mobile":9897766545 ,
+    "email":"kamal@gmail.com"
+}
